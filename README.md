@@ -67,6 +67,14 @@ Ayrıntılı kurulum adımlarına `docs/kurulum_adimlari.md` içinden ulaşabili
 - `bbb-conf --check` çıktıları (BBB sunucularının durumu)
 - `scalelite_status.txt` (Scalelite container’larının durumu)
 - Test bağlantı ekran görüntüleri
+![Screenshot_1](https://github.com/user-attachments/assets/ee49d0c8-79b5-4d92-a4c9-c6212cb7d265)
+
+![Screenshot_5](https://github.com/user-attachments/assets/879596f6-3fa6-4f8b-8df4-153d817b77a8)
+![Screenshot_4](https://github.com/user-attachments/assets/379e6baa-26f8-498f-84c6-84c8d3d98146)
+![Screenshot_3](https://github.com/user-attachments/assets/f676fbc9-fe1a-4ea1-948d-35eb09f9f84e)
+![Screenshot_2](https://github.com/user-attachments/assets/f8b3b774-43c4-41a5-8abc-abf9142439ee)
+![Screenshot_6](https://github.com/user-attachments/assets/c6cdb210-5096-4aee-976d-eab9b1a690e4)
+
 
 ## ⚠️ Gizlilik
 Görsellerde veya log dosyalarında yer alan **TC Kimlik No**, **kullanıcı adı** veya **kişisel veriler** silinmiş/sansürlenmiştir.
