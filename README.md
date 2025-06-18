@@ -2,9 +2,10 @@
 scalelite ile Bigbluebutton organizasyonu ve  ansible ile temel yapılandırma ölçeklendirme
 # Scalelite ile BigBlueButton Organizasyonu ve Ansible ile Yapılandırma & Ölçeklendirme
 
+
 ## 🔍 Proje Özeti
 Bu projede, açık kaynak video konferans sistemi BigBlueButton (BBB), birden fazla sunucuda dağıtık bir şekilde kurularak Scalelite ile yönetilmiş ve Ansible kullanılarak yapılandırma süreçleri otomatize edilmiştir.
-
+📄 [BBB Proje Raporunu PDF olarak görüntüle](./SCALELİTE_İLE_BİGBLUEBUTTON_ORGANİZASYONU_VE_ANSİBLE_İLE_TEMEL_YAPILANDIRMA_ÖLÇEKLENDİRME.pdf)
 ## 🧱 Big Picture
 Aşağıdaki diyagram, tüm bileşenlerin birbirleriyle olan bağlantısını özetler:
 
