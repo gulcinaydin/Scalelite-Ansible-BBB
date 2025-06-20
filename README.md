@@ -1,5 +1,5 @@
 # Scalelite-Ansible-BBB
-scalelite ile Bigbluebutton organizasyonu ve  ansible ile temel yapılandırma ölçeklendirme
+Scalelite ile Bigbluebutton organizasyonu ve  ansible ile temel yapılandırma ölçeklendirme
 # Scalelite ile BigBlueButton Organizasyonu ve Ansible ile Yapılandırma & Ölçeklendirme
 
 
@@ -9,7 +9,8 @@ Bu projede, açık kaynak video konferans sistemi BigBlueButton (BBB), birden fa
 ## 🧱 Big Picture
 Aşağıdaki diyagram, tüm bileşenlerin birbirleriyle olan bağlantısını özetler:
 
-![bbb diyagram](https://github.com/user-attachments/assets/644667f6-ff95-4559-a970-3bbfafe01f47)
+![bbb diyagram](https://github.com/user-attachments/assets/f8ad4f32-bf62-422a-ac89-a1534389db3b)
+
 
 
 > Yukarıdaki mimari, Scalelite’in gelen bağlantıları BBB sunucularına dağıtmasını ve Ansible’ın yapılandırma işlevini nasıl gerçekleştirdiğini göstermektedir.
